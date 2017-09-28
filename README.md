@@ -64,13 +64,6 @@ Since we are learning how to pull and merge, there is no need to create virtual 
 
 ---
 
-## Before Activity 3 (make this a habit)
-- Fork this repository and clone it in your *local*
-- Create virtual environment
-- Create `.gitignore` to ignore files that you don't want in your repository
-
----
-
 ## Activity 3: Inheritance and super()
 
 How would you model Facebook interface and data to Python classes?

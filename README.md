@@ -1,6 +1,12 @@
 # Section Week 4
 
-## Activity 1: Git Pull, Git Fetch and Merge
+> Announcements: If you haven't been able to push to git for your assignment, please tell us
+
+## Activity 1: Graduate Student from Class Week 4
+
+https://paper.dropbox.com/doc/SI-507-Lecture-4-September-27-2017-Class-inheritance-object-design-YVvaJSXwJNoO80yrSc9sM#:uid=048188662355237654871073&h2=Exercise
+
+## Activity 2: Git Pull, Git Fetch and Merge
 
 Before we proceed, let us change the default text editor if you are not comfortable using VIM, the command line text editor that you see when you forget to add the `-m` in `git commit`.
 
@@ -58,14 +64,14 @@ Since we are learning how to pull and merge, there is no need to create virtual 
 
 ---
 
-## Before Activity 2 (make this a habit)
+## Before Activity 3 (make this a habit)
 - Fork this repository and clone it in your *local*
 - Create virtual environment
 - Create `.gitignore` to ignore files that you don't want in your repository
 
 ---
 
-## Activity 2: Inheritance and super()
+## Activity 3: Inheritance and super()
 
 How would you model Facebook interface and data to Python classes?
 
